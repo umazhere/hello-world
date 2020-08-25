@@ -1,0 +1,79 @@
+
+@angular/compiler-cli@5.2.11 requires typescript@'>=2.4.2 <2.7.0' but 2.9.2 was found instead.
+Using this version can result in undefined behaviour and difficult to debug problems.
+
+Please run the following command to install a compatible version of TypeScript.
+
+    npm install typescript@'>=2.4.2 <2.7.0'
+
+To disable this warning run "ng set warnings.typescriptMismatch=false".
+
+****************************************************************************************
+This is a simple server for use in testing or debugging Angular applications locally.
+It hasn't been reviewed for security issues.
+
+DON'T USE IT FOR PRODUCTION!
+****************************************************************************************
+** NG Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+ 10% building modules 3/3 modules 0 active
+
+
+
+
+ 
+C:\351527\Jile\Agile\Code\Client>npm clean cache
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, audit, bin, bugs, c, cache, ci, cit,
+    completion, config, create, ddp, dedupe, deprecate,
+    dist-tag, docs, doctor, edit, explore, get, help,
+    help-search, hook, i, init, install, install-test, it, link,
+    list, ln, login, logout, ls, outdated, owner, pack, ping,
+    prefix, profile, prune, publish, rb, rebuild, repo, restart,
+    root, run, run-script, s, se, search, set, shrinkwrap, star,
+    stars, start, stop, t, team, test, token, tst, un,
+    uninstall, unpublish, unstar, up, update, v, version, view,
+    whoami
+
+npm <command> -h  quick help on <command>
+npm -l            display full usage info
+npm help <term>   search for help on <term>
+npm help npm      involved overview
+
+Specify configs in the ini-formatted file:
+    C:\Users\351527\.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@6.4.1 C:\Program Files\nodejs\node_modules\npm
+
+
+C:\351527\Jile\Agile\Code\Client>npm clean cache
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, audit, bin, bugs, c, cache, ci, cit,
+    completion, config, create, ddp, dedupe, deprecate,
+    dist-tag, docs, doctor, edit, explore, get, help,
+    help-search, hook, i, init, install, install-test, it, link,
+    list, ln, login, logout, ls, outdated, owner, pack, ping,
+    prefix, profile, prune, publish, rb, rebuild, repo, restart,
+    root, run, run-script, s, se, search, set, shrinkwrap, star,
+    stars, start, stop, t, team, test, token, tst, un,
+    uninstall, unpublish, unstar, up, update, v, version, view,
+    whoami
+
+npm <command> -h  quick help on <command>
+npm -l            display full usage info
+npm help <term>   search for help on <term>
+npm help npm      involved overview
+
+Specify configs in the ini-formatted file:
+    C:\Users\351527\.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@6.4.1 C:\Program Files\nodejs\node_modules\npm
